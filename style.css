@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    font-variant: small-caps;
+    background-color: black;
+}
+
+#heading {
+    font-size: 40px;
+    color: #AA00FF;
+}
+
+#heading2 {
+    color: #FDD835;
+    font-size: 20px;
+}
+
+#cradles {
+    padding-right: 90px;
+    height: 300px;
+    width: 300px;
+}
+
+#despacito {
+    height: 300px;
+    width: 300px;
+}
+
+#cradlesname {
+    color: #00E676;
+    margin-right: 400px;
+}
+
+#despacitoname {
+    color: #2979FF;
+    margin-left: 400px;
+}
